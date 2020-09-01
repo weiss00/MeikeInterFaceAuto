@@ -162,8 +162,8 @@
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="我的留言" enabled="true">
           <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
             <collectionProp name="HTTPFileArgs.files">
-              <elementProp name="../data/1.jpg" elementType="HTTPFileArg">
-                <stringProp name="File.path">../data/1.jpg</stringProp>
+              <elementProp name="../testcase/MeikeInterFaceAuto/data/1.jpg" elementType="HTTPFileArg">
+                <stringProp name="File.path">../testcase/MeikeInterFaceAuto/data/1.jpg</stringProp>
                 <stringProp name="File.paramname">file</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
